@@ -1,7 +1,5 @@
 # Robust backlog processing
 
-## The problem
-
 In this article we will present two simple solutions ("Fibonacci retry"
 and "Progressive schedule") for a common pattern in backend programs: A
 database table consisting of records that are to be processed by a
